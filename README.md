@@ -28,7 +28,7 @@ In this deliverable, you'll consume the [Star Wars API](https://swapi.dev/api/st
 1. Use `useEffect` to make the request and store it in a stately array (which you can call starShips).
 1. Map and render all information from your API call to your /starships route
 
-1. Add links on your navbar to /films, /planets, and /characters, adn the other routes that SWAPI provides
+1. Add links on your navbar to /films, /planets, and /characters, and the other routes that SWAPI provides
 2. Create new components for each of these SWAPI routes, and set up routes for each of these in your Main.jsx file
 3. In each of those routes, run a similar API call rendering and mapping data in each component for those endpoints
 
