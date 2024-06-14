@@ -2,7 +2,7 @@
 
 ## SEBR 0429
 
-# Star Wars API -useEffect & React Router &ractice
+# Star Wars API - useEffect & React Router Practice
 
 ---
 
