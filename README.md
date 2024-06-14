@@ -34,6 +34,7 @@ In this deliverable, you'll consume the [Star Wars API](https://swapi.dev/api/st
 
 
 ## Part II - Router Props
+### DO NOT WORK ON THIS SECTION UNTIL WE HAVE FINISHED OUR ROUTER II LESSON!
 
 When you pull and map data into your `<StarshipsList/>` component,  add a Link to each data card to link to an individual route for that starship. The link should lead to `/starhipsships/<theSelectedShipsId>`, and display the ship's name (<theSelectedShipsId> will need to be edited to be the ship's ID, but you already knew that!)
 1. Create a StarshipPage component, which is what will be rendered when you click on each Starship. It will need a Route created as well!
