@@ -1,0 +1,44 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: #3A4E48;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    #6A7B76 33%,
+    #8B9D83 66%,
+    #6A7B76 99%
+
+    
+  );
+  color: #BEB0A7;
+  margin: 0;
+  
+}
+
+.nav-links a {
+  display: flex;
+  color: #040303;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+.pathDesc {
+  border: 2px solid black;
+}
+
+
+
